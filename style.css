@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+   color: rgb(0, 0, 0);
+   background-color:rgb(175, 155, 131)}
+
+nav{
+text-align: center;
+
+}
+body{
+background-color:bisque;
+font-size: 20px;
+
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav li{
+   display: inline-block;
+    margin: 0 0 0 20px;
+    
+   
+}
+.chamado{
+    text-align: center;
+    font-size: 20px;
+
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    padding-left: 20px;
+}
+
+.somos{
+   padding-left: 20px;
+   margin-right:30%;
+   text-align: justify;
+}
+
+#video{
+    position: absolute;
+    padding-left: 72%;
+    top: 1299px;
+}
+
+.equipe{
+    padding-left: 20px;
+   margin-right: 20px;
+   text-align: justify;
+}
+
+
+h4{
+    padding: 20px;
+}
+
+.texto1{
+    padding-left: 20px;
+}
+
+#formulário{
+    padding-left: 20px;
+}
+
+#logos{
+    width: 5%;
+}
+
+#atendente{
+    position: absolute;
+   padding-right: 10%;
+   padding-left: 70%;
+   padding-top: 100px;
+}
